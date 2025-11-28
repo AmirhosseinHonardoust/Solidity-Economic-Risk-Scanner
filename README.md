@@ -343,7 +343,7 @@ Machine-readable format for dashboards or ML pipelines.
 
 ---
 
-# **Example Contracts Provided (12 total)**
+# **Example Contracts Provided**
 
 The repository includes carefully curated contracts that emulate:
 
